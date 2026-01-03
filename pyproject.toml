@@ -1,0 +1,12 @@
+[project]
+name = "line-messagingapi"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "flask>=3.1.2",
+    "google-generativeai>=0.8.6",
+    "line-bot-sdk>=3.21.0",
+    "python-dotenv>=1.2.1",
+]
